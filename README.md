@@ -1,2 +1,2 @@
 # AIchess_records
-Records some of my chess with AI. 
+Record some of my chess with AI. 
